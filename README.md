@@ -7,10 +7,9 @@ Use it in 3 simple steps:
 2.Download the source code.
 3.Run the command on your system
 (Use command prompt or the editor(IDE) terminal to run the code)
-
 Hurrah! Your files are orgainzed.
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-The user can choose among the following options:
+
+The user can choose among the following options/commands:
 
 1.help : It displays all the allowed commands.
 
